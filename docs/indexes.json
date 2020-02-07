@@ -1,0 +1,88 @@
+{
+  "contains": [
+    {
+      "group": "1. Exmobi SpringMVC服务搭建",
+      "contains": [
+        {
+          "subject": "1.1 Eclipse如何安装插件",
+          "mdlink": "How to install plugins in Eclipse"
+        },{
+          "subject": "1.2 Mbuilder进行SpringMVC服务开发",
+          "mdlink": "Mbuilder for Spring MVC service development"
+        }
+      ]
+    },
+    {
+      "group": "2. SpringMVC服务开发",
+      "contains": [
+        {
+          "subject": "2.1 目录结构介绍",
+          "mdlink": "Directory structure introduction"
+        },
+        {
+          "subject": "2.2 配置文件介绍",
+          "mdlink": "Configuration file introduction"
+        },
+        {
+          "subject": "2.3 系统工具包使用示例",
+          "mdlink": "System toolkit usage example"
+        }
+      ]
+    },
+    {
+      "group": "3. SpringMVC服务发布",
+      "contains": [
+        {
+          "subject": "3.1 导出war包",
+          "mdlink": "Export war package"
+        },
+        {
+          "subject": "3.2 上传war包",
+          "mdlink": "Upload war package"
+        },
+        {
+          "subject": "3.3 容器管理",
+          "mdlink": "Container management"
+        },
+        {
+          "subject": "3.4 服务配置管理",
+          "mdlink": "Service configuration management"
+        },
+        {
+          "subject": "3.5 服务下发到容器",
+          "mdlink": "Deliver service to the container"
+        },
+        {
+          "subject": "3.6 测试授权码申请",
+          "mdlink": "Test authorization code application"
+        },
+        {
+          "subject": "3.7 正式授权码申请",
+          "mdlink": "Formal authorization code application"
+        },
+        {
+          "subject": "3.8 接口API测试",
+          "mdlink": "Interface API test"
+        }
+      ]
+    },
+    {
+      "group": "4. 客户端开发",
+      "contains": [
+        {
+          "subject": "4.1 exmobi开发",
+          "mdlink": "exmobi development"
+        }
+      ]
+    },
+    {
+      "group": "5. 应用发布",
+      "contains": [
+        {
+          "subject": "5.1 exmobi插件发布",
+          "mdlink": "exmobi plugin released"
+        }
+      ]
+    }
+  ]
+}
